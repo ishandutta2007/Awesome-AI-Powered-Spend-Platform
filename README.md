@@ -23,9 +23,9 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
-## SaaS Products
+## 💰 SaaS Products
 
-### Core Platforms (AI-Powered Spend Management)
+### 🏢 Core Platforms (AI-Powered Spend Management)
 
 | Platform | Description | Pricing | Free Tier Limit | Company Size |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Expensify](https://www.expensify.com/)** | Popular expense management tool with AI receipt scanning and automation. | Starts at $5/user/month | Personal tracking for individuals only | ~$300M Market Cap |
 | **[Fyle](https://www.fylehq.com/)** | AI-powered expense management with real-time receipt intelligence. | Starts at $11.99/user/month | No free tier | ~$50M Valuation (Est.) |
 
-## Open-Source GitHub Projects
+## 🔓 Open-Source GitHub Projects
 
-### Dedicated Spend Management & Expense Tools
+### 🛠️ Dedicated Spend Management & Expense Tools
 
 - **[n8n Spend Automation](https://github.com/n8n-io/n8n)** [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
   Open-source workflow automation with LLM nodes for building custom expense approval and reconciliation workflows.
@@ -73,7 +73,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[LangGraph Finance Agents](https://github.com/langchain-ai/langgraph)** [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social&color=white)](https://github.com/langchain-ai/langgraph/stargazers)  
   Stateful multi-agent framework for building AI-powered spend analysis and automation agents.
 
-### Additional Strong Open-Source Options
+### ➕ Additional Strong Open-Source Options
 
 - **[Akaunting](https://github.com/akaunting/akaunting)** [![GitHub stars](https://img.shields.io/github/stars/akaunting/akaunting?style=social&color=white)](https://github.com/akaunting/akaunting/stargazers) — Open-source accounting and expense management.
 - **[Dolibarr](https://github.com/Dolibarr/dolibarr)** [![GitHub stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social&color=white)](https://github.com/Dolibarr/dolibarr/stargazers) — Open-source ERP/CRM with spend management.
@@ -84,7 +84,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 **Frameworks for building custom systems**: Combine **ERPNext**, **Odoo**, **n8n**, and **LangGraph** with **Ollama** to create fully sovereign AI-powered spend management platforms.
 
-## How to Contribute
+## 🤝 How to Contribute
 
 1. Fork the repo.
 2. Add/edit entries in `README.md` (follow existing format).
@@ -93,7 +93,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 Star the repo if you find it useful!
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - Spend management tools must comply with accounting standards and tax regulations.
