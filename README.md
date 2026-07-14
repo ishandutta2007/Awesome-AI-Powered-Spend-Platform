@@ -39,41 +39,41 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Dedicated Spend Management & Expense Tools
 
-- **[ERPNext](https://github.com/frappe/erpnext)**  
-  Full open-source ERP with powerful expense, budgeting, and spend management modules.
-
-- **[Odoo](https://github.com/odoo/odoo)**  
-  Comprehensive open-source business suite with expense tracking, accounting, and AI-ready modules.
-
-- **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)**  
-  Open-source invoicing and expense management platform with strong customization.
-
-- **[Firefly III](https://github.com/firefly-iii/firefly-iii)**  
-  Open-source personal and business finance manager with expense categorization and budgeting.
-
-- **[Actual Budget](https://github.com/actualbudget/actual)**  
-  Open-source budgeting tool with AI-friendly data structures for spend analysis.
-
-- **[n8n Spend Automation](https://github.com/n8n-io/n8n)**  
+- **[n8n Spend Automation](https://github.com/n8n-io/n8n)** [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
   Open-source workflow automation with LLM nodes for building custom expense approval and reconciliation workflows.
 
-- **[Huginn Expense Agents](https://github.com/huginn/huginn)**  
+- **[Huginn Expense Agents](https://github.com/huginn/huginn)** [![GitHub stars](https://img.shields.io/github/stars/huginn/huginn?style=social&color=white)](https://github.com/huginn/huginn/stargazers)  
   Open-source automation agent for monitoring expenses, receipts, and triggering actions.
 
-- **[Twenty](https://github.com/twentyhq/twenty)**  
-  Modern open-source CRM with expense and spend tracking potential for small teams.
+- **[Odoo](https://github.com/odoo/odoo)** [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
+  Comprehensive open-source business suite with expense tracking, accounting, and AI-ready modules.
 
-- **[Budibase](https://github.com/Budibase/budibase)**  
+- **[Budibase](https://github.com/Budibase/budibase)** [![GitHub stars](https://img.shields.io/github/stars/Budibase/budibase?style=social&color=white)](https://github.com/Budibase/budibase/stargazers)  
   Open-source low-code platform for building custom spend management dashboards and approval systems.
 
-- **[LangGraph Finance Agents](https://github.com/langchain-ai/langgraph)**  
+- **[ERPNext](https://github.com/frappe/erpnext)** [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
+  Full open-source ERP with powerful expense, budgeting, and spend management modules.
+
+- **[Twenty](https://github.com/twentyhq/twenty)** [![GitHub stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)  
+  Modern open-source CRM with expense and spend tracking potential for small teams.
+
+- **[Actual Budget](https://github.com/actualbudget/actual)** [![GitHub stars](https://img.shields.io/github/stars/actualbudget/actual?style=social&color=white)](https://github.com/actualbudget/actual/stargazers)  
+  Open-source budgeting tool with AI-friendly data structures for spend analysis.
+
+- **[Firefly III](https://github.com/firefly-iii/firefly-iii)** [![GitHub stars](https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=social&color=white)](https://github.com/firefly-iii/firefly-iii/stargazers)  
+  Open-source personal and business finance manager with expense categorization and budgeting.
+
+- **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** [![GitHub stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers)  
+  Open-source invoicing and expense management platform with strong customization.
+
+- **[LangGraph Finance Agents](https://github.com/langchain-ai/langgraph)** [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social&color=white)](https://github.com/langchain-ai/langgraph/stargazers)  
   Stateful multi-agent framework for building AI-powered spend analysis and automation agents.
 
 ### Additional Strong Open-Source Options
 
-- **[Akaunting](https://github.com/akaunting/akaunting)** — Open-source accounting and expense management.
-- **[SuiteCRM](https://github.com/salesagility/SuiteCRM)** — Open-source CRM with expense modules.
-- **[Dolibarr](https://github.com/Dolibarr/dolibarr)** — Open-source ERP/CRM with spend management.
+- **[Akaunting](https://github.com/akaunting/akaunting)** [![GitHub stars](https://img.shields.io/github/stars/akaunting/akaunting?style=social&color=white)](https://github.com/akaunting/akaunting/stargazers) — Open-source accounting and expense management.
+- **[Dolibarr](https://github.com/Dolibarr/dolibarr)** [![GitHub stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social&color=white)](https://github.com/Dolibarr/dolibarr/stargazers) — Open-source ERP/CRM with spend management.
+- **[SuiteCRM](https://github.com/salesagility/SuiteCRM)** [![GitHub stars](https://img.shields.io/github/stars/salesagility/SuiteCRM?style=social&color=white)](https://github.com/salesagility/SuiteCRM/stargazers) — Open-source CRM with expense modules.
 - **[OSBI tools** like Metabase for spend analytics.
 - **[LangChain + Accounting APIs** for custom AI spend agents.
 - Many community **Ollama + Receipt OCR** pipelines for local expense processing.
