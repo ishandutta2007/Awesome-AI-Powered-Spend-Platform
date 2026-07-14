@@ -4,6 +4,9 @@
 
 # Awesome-AI-Powered-Spend-Platform
 ## Top AI-Powered Spend Platforms Ecosystem
+<p align="center">
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
 
 **The Ultimate Curated List of AI-Powered Spend Management SaaS Platforms & Open-Source Finance Projects**  
 *Comprehensive directory of the best corporate card solutions, automated expense tracking software, and AI finance tools for CFOs, accountants, and startups.*  
