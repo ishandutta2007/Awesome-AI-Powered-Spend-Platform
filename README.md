@@ -23,17 +23,17 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Platforms (AI-Powered Spend Management)
 
-| Platform | Description | Pricing | Free Tier Limit |
-|---|---|---|---|
-| **[Ramp](https://ramp.com/)** | Modern corporate card and spend management platform with strong AI automation and insights. | $0/mo/user for core platform | Unlimited cards and basic features |
-| **[Brex](https://www.brex.com/)** | AI-powered spend platform for startups with corporate cards and expense automation. | Free Essentials tier, custom Premium | Essentials tier is fully free |
-| **[Airwallex](https://www.airwallex.com/)** | Global financial platform with AI-driven spend management and cross-border payments. | Free Explore plan, paid upgrades | 5 free spend users, 10 free company cards |
-| **[Navan](https://navan.com/)** | Travel and expense management platform with intelligent AI recommendations. | Free tier available | Expense management free for first 5 users |
-| **[SAP Concur](https://www.concur.com/)** | Enterprise spend management solution with AI features for expense reporting. | Custom quote | No free tier |
-| **[Spendesk](https://www.spendesk.com/)** | Smart spend management platform with AI-powered controls and approvals. | Custom quote | No free tier |
-| **[Expensify](https://www.expensify.com/)** | Popular expense management tool with AI receipt scanning and automation. | Starts at $5/user/month | Personal tracking for individuals only |
-| **[Coupa](https://www.coupa.com/)** | Business spend management platform with AI analytics and procurement tools. | Custom quote | No free tier |
-| **[Fyle](https://www.fylehq.com/)** | AI-powered expense management with real-time receipt intelligence. | Starts at $11.99/user/month | No free tier |
+| Platform | Description | Pricing | Free Tier Limit | Company Size |
+|---|---|---|---|---|
+| **[Brex](https://www.brex.com/)** | AI-powered spend platform for startups with corporate cards and expense automation. | Free Essentials tier, custom Premium | Essentials tier is fully free | ~$12.3B Valuation |
+| **[Navan](https://navan.com/)** | Travel and expense management platform with intelligent AI recommendations. | Free tier available | Expense management free for first 5 users | ~$9.2B Valuation |
+| **[SAP Concur](https://www.concur.com/)** | Enterprise spend management solution with AI features for expense reporting. | Custom quote | No free tier | ~$8.3B Valuation (Acq.) |
+| **[Coupa](https://www.coupa.com/)** | Business spend management platform with AI analytics and procurement tools. | Custom quote | No free tier | ~$8.0B Valuation (Acq.) |
+| **[Ramp](https://ramp.com/)** | Modern corporate card and spend management platform with strong AI automation and insights. | $0/mo/user for core platform | Unlimited cards and basic features | ~$7.65B Valuation |
+| **[Airwallex](https://www.airwallex.com/)** | Global financial platform with AI-driven spend management and cross-border payments. | Free Explore plan, paid upgrades | 5 free spend users, 10 free company cards | ~$5.5B Valuation |
+| **[Spendesk](https://www.spendesk.com/)** | Smart spend management platform with AI-powered controls and approvals. | Custom quote | No free tier | ~$1.5B Valuation |
+| **[Expensify](https://www.expensify.com/)** | Popular expense management tool with AI receipt scanning and automation. | Starts at $5/user/month | Personal tracking for individuals only | ~$300M Market Cap |
+| **[Fyle](https://www.fylehq.com/)** | AI-powered expense management with real-time receipt intelligence. | Starts at $11.99/user/month | No free tier | ~$50M Valuation (Est.) |
 
 ## Open-Source GitHub Projects
 
