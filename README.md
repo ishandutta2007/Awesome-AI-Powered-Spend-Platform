@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/banner.svg" alt="Awesome AI-Powered Spend Platform Banner" width="100%" />
+</div>
+
 # Awesome-AI-Powered-Spend-Platform
 ## Top AI-Powered Spend Platforms Ecosystem
 
